@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;1,100&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,500&family=Zen+Dots&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #13131d;
+  font-family: "Roboto", sans-serif;
+}
